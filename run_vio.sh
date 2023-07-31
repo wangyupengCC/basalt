@@ -1,0 +1,1 @@
+./build/basalt_vio --cam-calib data/euroc_ds_calib.json --dataset-path /Users/wanggong/Desktop/wanggong_ws/datasets/Euroc/MH_01_easy --dataset-type euroc --config-path data/euroc_config.json --show-gui true --use-double false
